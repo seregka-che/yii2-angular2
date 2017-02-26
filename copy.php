@@ -4,5 +4,5 @@ $dest = "./";   // destination folder or file
 
 shell_exec("cp -r $src $dest");
 
-echo "<H2>Copy files completed!</H2>"; //output when done
+echo "Copy files completed!"; //output when done
 ?>

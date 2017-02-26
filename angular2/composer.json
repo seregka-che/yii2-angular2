@@ -1,0 +1,25 @@
+{
+    "name": "razmik/angular2",
+    "description": "angular 2",
+    "version": "1.0.0",
+    "keywords": [
+        "html",
+        "angular2",
+        "TypeScript"
+    ],
+    "homepage": "https://github.com/dgan89/yii2-angular2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ilia Rozinsky"
+        }
+    ],
+    "require": {
+        "php" : ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "razmik\\angular2\\": ""
+        }
+    }
+}

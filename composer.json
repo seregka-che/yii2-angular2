@@ -22,9 +22,12 @@
             "razmik\\angular2\\": ""
         }
     },
-    "extra": {
-        "copy-file": {
-            "vendor/razmik/angular2/dist": ""
-        }
+    "scripts": {
+        "post-install-cmd": [
+            "php copy.php"
+        ],
+        "post-update-cmd": [
+            "php copy.php"
+        ]
     }
 }

@@ -1,6 +1,6 @@
 {
     "name": "razmik/angular2",
-    "description": "angular 2",
+    "description": "Angular 2",
     "version": "1.0.0",
     "keywords": [
         "html",
@@ -19,7 +19,8 @@
     },
     "autoload": {
         "psr-4": {
-            "razmik\\angular2\\": ""
+            "razmik\\angular2\\": "",
+            "razmik\\angular2\\assetes\\": "assets/"
         }
     },
     "scripts": {

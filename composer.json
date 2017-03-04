@@ -1,6 +1,6 @@
 {
-    "name": "razmik/angular2",
-    "description": "Angular 2",
+    "name": "razmik/yii2-angular2",
+    "description": "Angular 2 for Yii2 basic",
     "version": "1.0.1",
     "keywords": [
         "html",
